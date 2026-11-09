@@ -10973,7 +10973,7 @@
 {"name":"<ArrowFunction@73>","kind":"ArrowFunction","line":73,"sha256":"d370d8946931d10294a66cc8b48750c0f9a89d252b8d747dddcf75cb6302c852","status":"unproved","candidate":"requires-contract-and-semantics-review","syntaxFeatures":[]},
 {"name":"<ArrowFunction@77>","kind":"ArrowFunction","line":77,"sha256":"3d60b5a05acf1bc0fb37926848a161db6ed7e6c5c3f547884ca02b354791fbc7","status":"unproved","candidate":"requires-contract-and-semantics-review","syntaxFeatures":["throw-unreachable-model"]}
 ]},
-{"path":"workers/vetting/bounded-scan.ts","sha256":"779da62e2a1c44aaf02dc360fff543117006edb9cd60351816208645377386db","language":"typescript","disposition":"callables-inventoried","functions":[
+{"path":"workers/vetting/bounded-scan.ts","sha256":"d175a0db54c473a6a6d32f16b6cb67b4a6d50dc18db7bcdcd45e49d4eefa0381","language":"typescript","disposition":"callables-inventoried","functions":[
 {"name":"declaresInterpreter","kind":"FunctionDeclaration","line":229,"sha256":"308170ee8ec6ce329aa8ce5dc78c03aa0d2c120f795de5acd3be9d0792f32234","status":"unproved","candidate":"requires-contract-and-semantics-review","syntaxFeatures":[]},
 {"name":"basename","kind":"FunctionDeclaration","line":254,"sha256":"5abb2739c90a9cdd702e14e183b84bdcf02307c268615c1677ff1e33317c3a7b","status":"unproved","candidate":"requires-contract-and-semantics-review","syntaxFeatures":["library-semantics-review"]},
 {"name":"surfacesOf","kind":"FunctionDeclaration","line":259,"sha256":"797e31d2a9ad3ff5ff10b31622bb96e11d3afdf9bb9c888ee39ccfa9ea485a3e","status":"unproved","candidate":"requires-contract-and-semantics-review","syntaxFeatures":["library-semantics-review"]},
